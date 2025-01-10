@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 77e1a76a38ecd5a46a270afb12894dd5
+AssetOrigin:
+  serializedVersion: 1
+  productId: 176809
+  packageName: Lowpoly Medieval Plague Doctor - Free Pack
+  packageVersion: 1.0
+  assetPath: Assets/Polytope Studio/Lowpoly_Environments/Sources/Shaders/PT_Vegetation_Foliage_Shader.shader
+  uploadId: 575737
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _BaseTexture: {fileID: 2800000, guid: f2ee3ef6a109f0f4b8bfd6f7c1e310f4, type: 3}
+  - _texcoord: {instanceID: 0}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
